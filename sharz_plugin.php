@@ -97,9 +97,12 @@ function sharz_css() {
 	';
 }
 
+// Short Code For Text
 add_shortcode('sharz_test_shortcode', 'hello_sharz');
 
+// Short Code For Images
 add_shortcode('sharz_test_images_shortcode', 'hello_sharz_images');
+
 add_action( 'admin_head', 'sharz_css' );
 
 ?>
