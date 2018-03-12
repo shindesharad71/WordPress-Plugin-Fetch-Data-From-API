@@ -2,6 +2,8 @@
 
 A Simple WordPress Plugin To Get Data With WordPress API Methods And Display It With Shortcode Anywhere On Page Or Post!
 
+_**note**_ - _this is not a automated plugin, it is made for developer by developer, so you have to edit it with your text editor according to your needs!, Don't blame me for your mistakes then!_
+
 ### Installation
 
 1. Download the ```fetch_data_from_api.php``` file from this repository.
