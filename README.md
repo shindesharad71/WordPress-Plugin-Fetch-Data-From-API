@@ -11,4 +11,10 @@ _**note**_ - _this is not a automated plugin, it is made for developer by develo
 3. Change the ```$base_url``` and ```$options``` according to your needs.
 4. Change the ```plugin_css()``` fuction stylings as you need!
 
+### WordPress Hooks / Functions Used
+
+1. ```wp_remote_get()``` - For the GET request.
+2. ```add_shortcode()``` - To create shortcode of plugin.
+3. ```add_action()``` - TO add styling in the head tag.
+
 ###### updated on 12 March 2018
